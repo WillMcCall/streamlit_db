@@ -1,6 +1,7 @@
 {
     "locations": [
-        "Iowa City"
+        "Iowa City",
+        "Des Moines"
     ],
     "finance_jobs": [
         "Wealth Manager"
@@ -9,6 +10,7 @@
         "Data Analyst"
     ],
     "accounting_jobs": [
-        "Accountant"
+        "Accountant",
+        "Controller"
     ]
 }
