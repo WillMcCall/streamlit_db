@@ -1,0 +1,15 @@
+{
+    "locations": [
+        "Iowa City",
+        "Des Moines"
+    ],
+    "finance_jobs": [
+        "Wealth Manager"
+    ],
+    "bais_jobs": [
+        "Data Analyst"
+    ],
+    "accounting_jobs": [
+        "Accountant"
+    ]
+}
