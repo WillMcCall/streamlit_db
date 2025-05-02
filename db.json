@@ -1,17 +1,15 @@
 {
     "locations": [
-        "Iowa City"
+        "Iowa City",
+        "Des Moines"
     ],
     "finance_jobs": [
-        "Wealth Manager",
-        "Financial Analyst"
+        "Wealth Manager"
     ],
     "bais_jobs": [
-        "Data Analyst",
-        "IT Consultant"
+        "Data Analyst"
     ],
     "accounting_jobs": [
-        "Accountant",
-        "Controller"
+        "Accountant"
     ]
 }
