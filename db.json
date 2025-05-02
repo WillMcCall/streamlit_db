@@ -4,12 +4,15 @@
         "Des Moines"
     ],
     "finance_jobs": [
-        "Wealth Manager"
+        "Wealth Manager",
+        "Financial Analyst"
     ],
     "bais_jobs": [
-        "Data Analyst"
+        "Data Analyst",
+        "IT Consultant"
     ],
     "accounting_jobs": [
-        "Accountant"
+        "Accountant",
+        "Controller"
     ]
 }
