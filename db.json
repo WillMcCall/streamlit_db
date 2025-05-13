@@ -13,6 +13,11 @@
         "Accountant"
     ],
     "exclusion_keywords": [
-        "vice president"
+        "vice president",
+        "manager",
+        "vp",
+        "senior",
+        "lead",
+        "staff"
     ]
 }
