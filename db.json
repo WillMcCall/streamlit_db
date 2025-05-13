@@ -11,5 +11,8 @@
     ],
     "accounting_jobs": [
         "Accountant"
+    ],
+    "exclusion_keywords": [
+        "vice president"
     ]
 }
