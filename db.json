@@ -1,28 +1,21 @@
 {
     "locations": [
-        "Iowa City",
-        "Chicago"
+        "Iowa City"
     ],
     "finance_jobs": [
         "Master of Finance",
         "Treasury Analyst",
-        "Data Analyst",
-        "Financial Analyst",
-        "Corporate Financial Analyst"
+        "Data Analyst"
     ],
     "bais_jobs": [
         "Master of Business Analytics",
         "Analyst",
-        "IT Analyst",
-        "Financial Analyst",
-        "Research Analyst"
+        "IT Analyst"
     ],
     "accounting_jobs": [
         "Master of Accountancy",
         "Accountant",
-        "Public Accounting",
-        "Private Accounting",
-        "Tax Accounting"
+        "Public Accounting"
     ],
     "exclusion_keywords": [
         "vice president",
