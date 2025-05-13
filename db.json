@@ -14,21 +14,14 @@
         "Analyst",
         "IT Analyst",
         "Financial Analyst",
-        "Research Analyst",
-        "Business Analyst",
-        "Operations Support Analyst"
+        "Research Analyst"
     ],
     "accounting_jobs": [
         "Master of Accountancy",
         "Accountant",
         "Public Accounting",
         "Private Accounting",
-        "Tax Accounting",
-        "Financial Accounting",
-        "Managerial Accounting",
-        "Accounting",
-        "CPA",
-        "Controller"
+        "Tax Accounting"
     ],
     "exclusion_keywords": [
         "vice president",
