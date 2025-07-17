@@ -1,15 +1,7 @@
 {
     "locations": [
         "Iowa City",
-        "Des Moines",
-        "Cedar Rapids",
-        "Chicago",
-        "Minneapolis",
-        "Kansas City",
-        "New York",
-        "St. Louis",
-        "Davenport",
-        "Dubuque"
+        "Des Moines"
     ],
     "finance_jobs": [
         "Master of Finance",
