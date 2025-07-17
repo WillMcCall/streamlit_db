@@ -1,6 +1,15 @@
 {
     "locations": [
-        "Iowa City"
+        "Iowa City",
+        "Des Moines",
+        "Cedar Rapids",
+        "Chicago",
+        "Minneapolis",
+        "Kansas City",
+        "New York",
+        "St. Louis",
+        "Davenport",
+        "Dubuque"
     ],
     "finance_jobs": [
         "Master of Finance",
@@ -18,15 +27,6 @@
         "Public Accounting"
     ],
     "exclusion_keywords": [
-        "vice president",
-        "manager",
-        "vp",
-        "senior",
-        "lead",
-        "staff",
-        "engineer",
-        "chief",
-        "head",
-        "director"
+        ""
     ]
 }
